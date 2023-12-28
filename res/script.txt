@@ -1,0 +1,62 @@
+load bagel.png bagel
+brighten 30 bagel bagelBrighten
+save bagelBrighten.png bagelBrighten
+
+brighten -50 bagel bagelDarken
+save bagelDarken.png bagelDarken
+
+luma bagel bagelLuma
+save bagelLuma.png bagelLuma
+
+value bagel bagelValue
+save bagelValue.png bagelValue
+
+intensity bagel bagelIntensity
+save bagelIntensity.png bagelIntensity
+
+red-component bagel bagelRed
+save bagelRed.png bagelRed
+
+green-component bagel bagelGreen
+save bagelGreen.png bagelGreen
+
+blue-component bagel bagelBlue
+save bagelBlue.png bagelBlue
+
+blur bagel bagelBlur
+save bagelBlur.png bagelBlur
+
+sharpen bagel bagelSharpen
+save bagelSharpen.png bagelSharpen
+
+sepia bagel bagelSepia
+save bagelSepia.png bagelSepia
+
+greyscale bagel bagelGreyscale
+save bagelGreyscale.png bagelGreyscale
+
+load logan.jpeg logan
+sharpen logan loganSharpen
+save loganSharpen.jpeg loganSharpen
+
+blur logan loganBlur
+save loganBlur.jpeg loganBlur
+
+sepia logan loganSepia
+save loganSepia.jpeg loganSepia
+
+greyscale logan loganGreyscale
+save loganGreyscale.jpeg loganGreyscale
+
+load strawberry.ppm strawberry
+blur strawberry strawberryBlur
+save strawberryBlur.ppm strawberryBlur
+
+sharpen strawberry strawberrySharpen
+save strawberrySharpen.ppm strawberrySharpen
+
+sepia strawberry strawberrySepia
+save strawberrySepia.ppm strawberrySepia
+
+greyscale strawberry strawberryGreyscale
+save strawberryGreyscale.ppm strawberryGreyscale
