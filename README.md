@@ -1,3 +1,7 @@
+# Assignment 10: GRIME - Graphical Image Manipulation and Enhancement (Part 3) - README
+Nicole Quinn\
+quinn.nic@northeastern.edu
+
 ## High Level Design
 This program uses the MVC design pattern to construct an image manipulation and enhancement program. Each of the three components are discussed below:
 ### Model:
