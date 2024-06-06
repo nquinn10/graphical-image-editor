@@ -1,4 +1,4 @@
-# Assignment 10: GRIME - Graphical Image Manipulation and Enhancement (Part 3) - USEME
+# GRIME - Graphical Image Manipulation and Enhancement - USEME
 Nicole Quinn\
 quinn.nic@northeastern.edu
 
