@@ -3,7 +3,7 @@ Nicole Quinn\
 quinn.nic@northeastern.edu
 
 ## Overview
-
+program_screenshot.png
 
 ## High Level Design
 This program uses the MVC design pattern to construct an image manipulation and enhancement program. Each of the three components are discussed below:
