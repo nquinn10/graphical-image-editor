@@ -3,7 +3,7 @@ Nicole Quinn\
 quinn.nic@northeastern.edu
 
 ## Overview
-Below is an image to show what the program looks like when run: /
+Below is an image to show what the program looks like when run: 
 ![screenshot](program_screenshot.png)
 
 ## High Level Design
